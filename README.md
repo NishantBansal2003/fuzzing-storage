@@ -1,0 +1,3 @@
+# Fuzzing Storage
+
+Stores Corpus
