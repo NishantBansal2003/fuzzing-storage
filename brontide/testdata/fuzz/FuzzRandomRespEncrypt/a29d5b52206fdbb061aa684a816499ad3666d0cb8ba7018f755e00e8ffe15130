@@ -1,3 +1,0 @@
-go test fuzz v1
-int64(-380)
-[]byte("0")
